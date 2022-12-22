@@ -1,0 +1,4 @@
+﻿using ExchangeRateBot;
+
+
+TelegramBot.Start();
